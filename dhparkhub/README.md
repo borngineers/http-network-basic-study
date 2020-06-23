@@ -13,3 +13,5 @@ HTTP Method
 Message Body vs Entity Body
 HTTP Status Code
 Proxy vs Gateway vs Tunnel
+HTTP Header
+HTTPS 
